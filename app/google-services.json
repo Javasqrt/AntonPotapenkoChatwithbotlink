@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "121842065760",
+    "firebase_url": "https://antonpotapenko-682bb.firebaseio.com",
+    "project_id": "antonpotapenko-682bb",
+    "storage_bucket": "antonpotapenko-682bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121842065760:android:7c27a1d0c4fdad5a",
+        "android_client_info": {
+          "package_name": "com.example.antonpotapenko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121842065760-li3745ilv7ok4j1uik4rgsu5k5o540m5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.antonpotapenko",
+            "certificate_hash": "a736ba1028e5a3963283748297817b757a813c77"
+          }
+        },
+        {
+          "client_id": "121842065760-c1qrn9mh8gqg3l9j2ni1oa66qs9cvmlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtNse0-IifQ7Jeee3UFNzHrg75p6o1bvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121842065760-c1qrn9mh8gqg3l9j2ni1oa66qs9cvmlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
